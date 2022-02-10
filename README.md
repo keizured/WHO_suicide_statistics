@@ -8,4 +8,6 @@ The original dataset can be found on kaggle at https://www.kaggle.com/szamil/who
 ### Run the project
 Mind, that if you run the project on your own, you should have file who_suicide_statistics.csv in the same folder as the project, or you can try to replace the file name in project by the link to the dataset, which is not preffered due to technical issues.
 
-There is also exists api command **kaggle datasets download -d szamil/who-suicide-statistics** but it has not proven working yet
+There is also exists api command 
+**kaggle datasets download -d szamil/who-suicide-statistics**
+But it has not proven working yet
